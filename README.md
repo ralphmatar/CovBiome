@@ -7,7 +7,7 @@ Welcome! This repository contains the scripts for my Master's thesis:
 
 In this thesis, I present a data description of 954 COVID-19 patients,
 sequenced using Next Generation Sequencing (NGS) total RNA-seq from paired-end nasophayngeal swabs (NP).
-This repositorz contains the scripts I used for the analysis of this data.
+This repository contains the scripts I used for the analysis of this data.
 
 The main pipeline is a snakemake workflow *COMA.snakemake*, a second pipeline *performance.snakemake* is used
 for benchmarking during the comparison of using 2 separate genomes or a concatenated one. The remaing python
